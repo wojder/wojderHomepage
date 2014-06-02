@@ -1,0 +1,7 @@
+---
+layout: post
+title: "Testowy"
+date: 2014-06-02 12:06:00 +0200
+comments: true
+categories: 
+---
