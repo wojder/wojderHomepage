@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Wojder homepage & blog]]></title>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Lorem Ipsum | Wojder homepage & blog]]></title>
+  <link href="http://yoursite.com/techblog/categories/lorem-ipsum/atom.xml" rel="self"/>
   <link href="http://yoursite.com/"/>
   <updated>2014-06-03T12:06:50+02:00</updated>
   <id>http://yoursite.com/</id>
@@ -12,15 +12,6 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
-  
-  <entry>
-    <title type="html"><![CDATA[Spróbujmy Z Tagami]]></title>
-    <link href="http://yoursite.com/techblog/2014/06/02/sprobujmy-z-tagami/"/>
-    <updated>2014-06-02T18:07:19+02:00</updated>
-    <id>http://yoursite.com/techblog/2014/06/02/sprobujmy-z-tagami</id>
-    <content type="html"><![CDATA[
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[Testowy]]></title>
@@ -42,7 +33,7 @@
 <h4>Uuummmm, this is a tasty burger!</h4>
 <p>The path of the righteous man is beset on all sides by the iniquities of the selfish and the tyranny of evil men. Blessed is he who, in the name of charity and good will, shepherds the weak through the valley of darkness, for he is truly his brother’s keeper and the finder of lost children. And I will strike down upon thee with great vengeance and furious anger those who would attempt to poison and destroy My brothers. And you will know My name is the Lord when I lay My vengeance upon thee.</p>
 
-<h4>I&#8217;m serious as a heart attack</h4>
+<h4>I'm serious as a heart attack</h4>
 <p>Look, just because I don’t be givin’ no man a foot massage don’t make it right for Marsellus to throw Antwone into a glass motherfuckin’ house, fuckin’ up the way the nigger talks. Motherfucker do that shit to me, he better paralyze my ass, ‘cause I’ll kill the motherfucker, know what I’m sayin’?</p>
 
 <h4>Is she dead, yes or no?</h4>

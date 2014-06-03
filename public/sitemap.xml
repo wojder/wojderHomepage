@@ -2,7 +2,7 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://yoursite.com/techblog/2014/06/02/testowy/</loc>
-        <lastmod>2014-06-02T18:01:49+02:00</lastmod>
+        <lastmod>2014-06-03T12:06:50+02:00</lastmod>
     </url>
     <url>
         <loc>http://yoursite.com/techblog/2014/06/02/sprobujmy-z-tagami/</loc>
@@ -18,10 +18,10 @@
     </url>
     <url>
         <loc>http://yoursite.com/</loc>
-        <lastmod>2014-06-02T18:52:43+02:00</lastmod>
+        <lastmod>2014-06-03T12:06:50+02:00</lastmod>
     </url>
     <url>
         <loc>http://yoursite.com/blog/archives/</loc>
-        <lastmod>2014-06-02T19:21:48+02:00</lastmod>
+        <lastmod>2014-06-03T12:06:50+02:00</lastmod>
     </url>
 </urlset>
