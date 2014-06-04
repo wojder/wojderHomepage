@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: badanie | Wojder homepage & blog]]></title>
-  <link href="http://yoursite.com/techblog/categories/badanie/atom.xml" rel="self"/>
-  <link href="http://yoursite.com/"/>
-  <updated>2014-06-04T13:05:17+02:00</updated>
-  <id>http://yoursite.com/</id>
+  <link href="http://shielded-retreat-4872.herokuapp.com//techblog/categories/badanie/atom.xml" rel="self"/>
+  <link href="http://shielded-retreat-4872.herokuapp.com//"/>
+  <updated>2014-06-04T13:33:03+02:00</updated>
+  <id>http://shielded-retreat-4872.herokuapp.com//</id>
   <author>
     <name><![CDATA[wojder]]></name>
-    
+    <email><![CDATA[paulwojdera@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
     <title type="html"><![CDATA[Testowy]]></title>
-    <link href="http://yoursite.com/techblog/2014/06/02/testowy/"/>
+    <link href="http://shielded-retreat-4872.herokuapp.com//techblog/2014/06/02/testowy/"/>
     <updated>2014-06-02T12:06:00+02:00</updated>
-    <id>http://yoursite.com/techblog/2014/06/02/testowy</id>
+    <id>http://shielded-retreat-4872.herokuapp.com//techblog/2014/06/02/testowy</id>
     <content type="html"><![CDATA[<h4>Uuummmm, this is a tasty burger!</h4>
 <p>Do you see any Teletubbies in here? Do you see a slender plastic tag clipped to my shirt with my name printed on it? Do you see a little Asian child with a blank expression on his face sitting outside on a mechanical helicopter that shakes when you put quarters in it? No? Well, that’s what you see at a toy store. And you must think you’re in a toy store, because you’re here shopping for an infant named Jeb.</p>
 
