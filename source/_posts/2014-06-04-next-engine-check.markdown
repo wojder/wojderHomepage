@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "Spróbujmy z tagami"
-date: 2014-06-02 18:07:19 +0200
-comments: true
+title: "Next engine check"
+date: 2014-06-04 12:43:08 +0200
+comments: true 
 categories: [samuel, test, testowy]
+author: wojder
 ---
-
-<!-- start slipsum code -->
 
 <h5>No man, I don't eat pork</h5>
 You think water moves fast? You should see ice. It moves like it has a mind. Like it knows it killed the world once and got a taste for murder. After the avalanche, it took us a week to climb out. Now, I don't know exactly when we turned on each other, but I know that seven of us survived the slide... and only five made it out. Now we took an oath, that I'm breaking now. We said we'd say it was the snow that killed the other two, but it wasn't. Nature is lethal but it doesn't hold a candle to man.

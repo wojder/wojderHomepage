@@ -2,7 +2,8 @@
 {% if site.email_md5 %}
 <img src="http://www.gravatar.com/avatar/{{ site.email_md5 }}?s=160" alt="Profile Picture" style="width: 160px;" />
     {% else if site.facebook_user %}
-    <img src="https://graph.facebook.com/{{ site.facebook_user }}/picture?width=160&height=160" alt="Profile picture" style='width:160px' />{% else %}
+    <img src="https://graph.facebook.com/{{ site.facebook_user }}/picture?width=160&height=160" alt="Profile picture" style='width:160px' />
+{% else %}
 <script src="{{ root_url }}/javascripts/md5.js"></script>
 <script type="text/javascript">
 $(function(){
