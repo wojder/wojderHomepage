@@ -11,7 +11,7 @@ categories: [SlamDunk, Broolyn]
 
 <h5>1. Listen to people smarter than yourself </h5>
 
-{% youtube https://www.youtube.com/watch?v=RATRQ-7Y39Q %}
+{% youtube RATRQ-7Y39Q %}
 Self-education isn't easy... It's all about consistency and finding right sources to learning from. Is a hard nut to crack to find out appropriate ones. Without a doubtor completely begginers (moi for example) I recommend searching open-source courses, books, videos, podcasts and what is more important - looking for opinions from expirienced programmers. It's crucial thing, becouse most of founded sources are overdue or sketchy-prepared - couple of minutes sacrified for reading review could save precious time for education.  
 
 <!-- more -->
