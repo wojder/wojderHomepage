@@ -11,14 +11,15 @@ categories: [SlamDunk, Broolyn]
 
 <h5>1. Listen to people smarter than yourself </h5>
 
-<video width='720' height='480' preload='none' controls poster='http://site.com/poster-frame.jpg'>
-#   <source src='http://site.com/video.mp4' type='video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"'/>
-# </video>
+<video width='720' height='480' preload='none' controls poster='https://www.youtube.com/watch?v=RATRQ-7Y39Q'>
+<source src='https://www.youtube.com/watch?v=RATRQ-7Y39Q' type='video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"'/>
+</video>
 Self-education isn't easy... It's all about consistency and finding right sources to learning from. Is a hard nut to crack to find out appropriate ones. Without a doubt, for completely begginers (moi for example) I recommend searching open-source courses, books, videos, podcasts and what is more important - looking for opinions from expirienced programmers. It's crucial thing, becouse most of founded sources are overdue or sketchy-prepared - couple of minutes sacrified for reading review could save precious time for education.  
 
 <!-- more -->
 
 <h5>Are you ready for the truth?</h5>
+<img src="https://fbcdn-sphotos-b-a.akamaihd.net/hphotos-ak-xap1/t31.0-8/1658389_730424267027252_1759489681023436753_o.jpg" title="Ninja Attack!" alt="Ninja Attack!">
 Look, just because I don't be givin' no man a foot massage don't make it right for Marsellus to throw Antwone into a glass motherfuckin' house, fuckin' up the way the nigger talks. Motherfucker do that shit to me, he better paralyze my ass, 'cause I'll kill the motherfucker, know what I'm sayin'?
 
 <h5>No, motherfucker</h5>
