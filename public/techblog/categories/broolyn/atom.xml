@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: basics | Wojder homepage & blog]]></title>
-  <link href="http://shielded-retreat-4872.herokuapp.com//techblog/categories/basics/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Broolyn | Wojder homepage & blog]]></title>
+  <link href="http://shielded-retreat-4872.herokuapp.com//techblog/categories/broolyn/atom.xml" rel="self"/>
   <link href="http://shielded-retreat-4872.herokuapp.com//"/>
-  <updated>2014-12-05T18:49:10+01:00</updated>
+  <updated>2014-12-05T19:08:44+01:00</updated>
   <id>http://shielded-retreat-4872.herokuapp.com//</id>
   <author>
     <name><![CDATA[wojder]]></name>
@@ -14,13 +14,17 @@
 
   
   <entry>
-    <title type="html"><![CDATA[next test after changes]]></title>
+    <title type="html"><![CDATA[Brooklyn Nets @ Washington Wizards]]></title>
     <link href="http://shielded-retreat-4872.herokuapp.com//techblog/2014/12/05/next-test-after-changes/"/>
     <updated>2014-12-05T16:52:22+01:00</updated>
     <id>http://shielded-retreat-4872.herokuapp.com//techblog/2014/12/05/next-test-after-changes</id>
     <content type="html"><![CDATA[<!-- start slipsum code -->
 
 <h5>1. Listen to people smarter than yourself </h5>
+
+<video width="720" height="480" preload="none" controls="" poster="http://site.com/poster-frame.jpg">
+#   <source src="http://site.com/video.mp4" type="video/mp4; codecs=\&quot;avc1.42E01E, mp4a.40.2\&quot;" />
+# </video>
 <p>Self-education isn’t easy… It’s all about consistency and finding right sources to learning from. Is a hard nut to crack to find out appropriate ones. Without a doubt, for completely begginers (moi for example) I recommend searching open-source courses, books, videos, podcasts and what is more important - looking for opinions from expirienced programmers. It’s crucial thing, becouse most of founded sources are overdue or sketchy-prepared - couple of minutes sacrified for reading review could save precious time for education.  </p>
 
 <!-- more -->

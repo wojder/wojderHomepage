@@ -1,15 +1,19 @@
 ---
 layout: post
-title: "next test after changes"
+title: "Brooklyn Nets @ Washington Wizards"
 date: 2014-12-05 16:52:22 +0100
 comments: true
-categories: [test, basics]
+categories: [SlamDunk, Broolyn]
 ---
 
 
 <!-- start slipsum code -->
 
 <h5>1. Listen to people smarter than yourself </h5>
+
+<video width='720' height='480' preload='none' controls poster='http://site.com/poster-frame.jpg'>
+#   <source src='http://site.com/video.mp4' type='video/mp4; codecs=\"avc1.42E01E, mp4a.40.2\"'/>
+# </video>
 Self-education isn't easy... It's all about consistency and finding right sources to learning from. Is a hard nut to crack to find out appropriate ones. Without a doubt, for completely begginers (moi for example) I recommend searching open-source courses, books, videos, podcasts and what is more important - looking for opinions from expirienced programmers. It's crucial thing, becouse most of founded sources are overdue or sketchy-prepared - couple of minutes sacrified for reading review could save precious time for education.  
 
 <!-- more -->
