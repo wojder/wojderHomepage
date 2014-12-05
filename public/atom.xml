@@ -4,7 +4,7 @@
   <title><![CDATA[Wojder homepage & blog]]></title>
   <link href="http://shielded-retreat-4872.herokuapp.com//atom.xml" rel="self"/>
   <link href="http://shielded-retreat-4872.herokuapp.com//"/>
-  <updated>2014-06-22T23:20:19+02:00</updated>
+  <updated>2014-12-05T16:45:09+01:00</updated>
   <id>http://shielded-retreat-4872.herokuapp.com//</id>
   <author>
     <name><![CDATA[wojder]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Next Test]]></title>
+    <link href="http://shielded-retreat-4872.herokuapp.com//techblog/2014/12/05/next-test/"/>
+    <updated>2014-12-05T15:58:42+01:00</updated>
+    <id>http://shielded-retreat-4872.herokuapp.com//techblog/2014/12/05/next-test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Next Engine Check]]></title>

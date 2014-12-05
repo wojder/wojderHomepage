@@ -1,7 +1,0 @@
----
-layout: post
-title: "next test"
-date: 2014-12-05 15:58:42 +0100
-comments: true
-categories: 
----
