@@ -6,8 +6,8 @@ require 'uri'
  
 module Jekyll
   class Youtube < Liquid::Tag
-    @width = 640
-    @height = 390
+    @width = 700
+    @height = 400
  
     def initialize(name, id, tokens)
       super
