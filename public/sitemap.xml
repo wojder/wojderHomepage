@@ -1,16 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://shielded-retreat-4872.herokuapp.com//techblog/2014/06/02/testowy/</loc>
-        <lastmod>2014-12-03T23:34:03+01:00</lastmod>
-    </url>
-    <url>
-        <loc>
-            http://shielded-retreat-4872.herokuapp.com//techblog/2014/06/02/sprobujmy-z-tagami/
-        </loc>
-        <lastmod>2014-12-03T23:34:03+01:00</lastmod>
-    </url>
-    <url>
         <loc>
             http://shielded-retreat-4872.herokuapp.com//techblog/2014/06/04/next-engine-check/
         </loc>
