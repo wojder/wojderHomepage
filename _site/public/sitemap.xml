@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://shielded-retreat-4872.herokuapp.com//techblog/2014/06/02/testowy/</loc>
+        <lastmod>2014-06-04T12:45:16+02:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://shielded-retreat-4872.herokuapp.com//techblog/2014/06/02/sprobujmy-z-tagami/
+        </loc>
+        <lastmod>2014-06-04T12:45:23+02:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://shielded-retreat-4872.herokuapp.com//techblog/2014/06/04/next-engine-check/
+        </loc>
+        <lastmod>2014-06-04T13:05:17+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://shielded-retreat-4872.herokuapp.com//robots.txt</loc>
+        <lastmod>2014-06-02T11:30:57+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://shielded-retreat-4872.herokuapp.com//about/</loc>
+        <lastmod>2014-06-03T17:42:48+02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://shielded-retreat-4872.herokuapp.com//</loc>
+        <lastmod>2014-06-04T13:05:17+02:00</lastmod>
+    </url>
+</urlset>

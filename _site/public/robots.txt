@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://shielded-retreat-4872.herokuapp.com//sitemap.xml 

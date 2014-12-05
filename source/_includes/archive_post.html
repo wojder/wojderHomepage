@@ -17,4 +17,12 @@
 {% endif %}
 </div>
 <h1 class="title" itemprop="name"><a href="{{ root_url }}{{ post.url }}">{{post.title}}</a></h1>
-</article>
+</article> {% capture date %}{{ post.date }}{% endcapture %}
+{% capture this_year %}{{ date | date: "%Y" }}{% endcapture %}
+{% unless year == this_year %}
+{% assign year = this_year %}
+{% unless forloop.first %}
+</section>
+{% endunless %}
+<section class="archives"><h1 class="year">{{ date | date: "%Y" }}</h1>
+{% endunless %}
