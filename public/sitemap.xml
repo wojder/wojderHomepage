@@ -17,8 +17,10 @@
         <lastmod>2014-12-03T23:34:03+01:00</lastmod>
     </url>
     <url>
-        <loc>http://shielded-retreat-4872.herokuapp.com//techblog/2014/12/05/next-test/</loc>
-        <lastmod>2014-12-05T15:58:42+01:00</lastmod>
+        <loc>
+            http://shielded-retreat-4872.herokuapp.com//techblog/2014/12/05/next-test-after-changes/
+        </loc>
+        <lastmod>2014-12-05T16:57:49+01:00</lastmod>
     </url>
     <url>
         <loc>http://shielded-retreat-4872.herokuapp.com//robots.txt</loc>
@@ -30,6 +32,6 @@
     </url>
     <url>
         <loc>http://shielded-retreat-4872.herokuapp.com//</loc>
-        <lastmod>2014-12-05T15:58:42+01:00</lastmod>
+        <lastmod>2014-12-05T16:57:49+01:00</lastmod>
     </url>
 </urlset>
