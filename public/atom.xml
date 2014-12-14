@@ -4,7 +4,7 @@
   <title><![CDATA[Wojder homepage & blog]]></title>
   <link href="http://shielded-retreat-4872.herokuapp.com//atom.xml" rel="self"/>
   <link href="http://shielded-retreat-4872.herokuapp.com//"/>
-  <updated>2014-12-05T20:10:42+01:00</updated>
+  <updated>2014-12-14T16:45:50+01:00</updated>
   <id>http://shielded-retreat-4872.herokuapp.com//</id>
   <author>
     <name><![CDATA[wojder]]></name>
@@ -12,6 +12,20 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Desc Test]]></title>
+    <link href="http://shielded-retreat-4872.herokuapp.com//techblog/2014/12/14/desc-test/"/>
+    <updated>2014-12-14T16:43:09+01:00</updated>
+    <id>http://shielded-retreat-4872.herokuapp.com//techblog/2014/12/14/desc-test</id>
+    <content type="html"><![CDATA[<description>blffelbrglellefee</description>
+
+<!--more-->
+<p>dgsdjgsduihj 
+ajufiasjfai
+jfsiafjaifj</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Brooklyn Nets @ Washington Wizards]]></title>
