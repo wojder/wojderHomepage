@@ -4,7 +4,7 @@
   <title><![CDATA[Wojder homepage & blog]]></title>
   <link href="http://shielded-retreat-4872.herokuapp.com//atom.xml" rel="self"/>
   <link href="http://shielded-retreat-4872.herokuapp.com//"/>
-  <updated>2014-12-14T16:45:50+01:00</updated>
+  <updated>2014-12-16T16:11:00+01:00</updated>
   <id>http://shielded-retreat-4872.herokuapp.com//</id>
   <author>
     <name><![CDATA[wojder]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Nets @ Wizards]]></title>
+    <link href="http://shielded-retreat-4872.herokuapp.com//techblog/2014/12/16/nets-at-wizards/"/>
+    <updated>2014-12-16T15:56:30+01:00</updated>
+    <id>http://shielded-retreat-4872.herokuapp.com//techblog/2014/12/16/nets-at-wizards</id>
+    <content type="html"><![CDATA[<h5>Zacięta inauguracja sezonu w Waszyngtonie</h5>
+
+<p>Od porażki rozpoczęli sezon gracze Nets - przegrana z przeciwnikiem, który prezentuje równą, urozmaiconą grę w ataku pozycyjnym i nie pozwala na kreowanie łatwych pozycji rzutowych grając w obronie. W poprzedniej edycji 2K Kura wymagał delikatnego szlifu, lecz w ‘15 jest wymiataczem z krwi i kości -&gt; gdy tylko odejdziesz na chwilę - ukłuje, gdy za blisko na nim usiądziesz - minie, zastosuj podwojenie a odda do partnera, który z zimną krwią wykona egzekucję. </p>
+
+<!--more-->
+
+<p>Gra Brooklynu zostawia jeszcze wiele do życzenia - bez wątpienia nie jest to zespół, który porywa w ataku (większość GMów w ten sposób dobierało skład podczas draftu), lecz swoją spokojną gra na atakowanej stronie i presją w obronie powinien zdobyć miejsce w Play-offach, które zapowiadają się niezwykle ciekawie. Wschód jest niezwykle silny, lecz Nets posiadając w składzie Millsapa i Noaha, powinni przetorować sobie drogę do drugiej części sezonu dzieląc i rządząc pod dziurą. </p>
+
+<h4>Wynik 62:69</h4>
+<h5>Ocena przeciwnika: 5-</h5>
+<h5>Ocena gry: 3</h5>
+<h5>Statline of the game: 3 pointers Nets 3/15 </h5>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Desc Test]]></title>
