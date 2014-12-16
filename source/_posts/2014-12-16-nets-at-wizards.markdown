@@ -12,7 +12,7 @@ Od porażki rozpoczęli sezon gracze Nets - przegrana z przeciwnikiem, który pr
 
 <!--more-->
 
-{% img left half http://www1.pictures.zimbio.com/gi/Stephen+Curry+Oklahoma+City+Thunder+v+Golden+Kv_QRhVR3MHl.jpg 150 150 "Curry shoes" %}
+{% img http://www1.pictures.zimbio.com/gi/Stephen+Curry+Oklahoma+City+Thunder+v+Golden+Kv_QRhVR3MHl.jpg 330 300 "Curry shoes" %}
 
 Gra Brooklynu zostawia jeszcze wiele do życzenia - bez wątpienia nie jest to zespół, który porywa w ataku (większość GMów w ten sposób dobierało skład podczas draftu), lecz swoją spokojną gra na atakowanej stronie i presją w obronie powinien zdobyć miejsce w Play-offach, które zapowiadają się niezwykle ciekawie. Wschód jest niezwykle silny, lecz Nets posiadając w składzie Millsapa i Noaha, powinni przetorować sobie drogę do drugiej części sezonu dzieląc i rządząc pod dziurą. 
 
