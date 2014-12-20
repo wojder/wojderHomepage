@@ -12,7 +12,7 @@ Przeciwnicy znający się jak łyse konie z pamiętnych finałów Ligi - zapowia
 
 <!--more-->
 
-{% img http://cdn.solecollector.com/media/up/2014/01/images/sole-watch-nets-warriors-january-8-2014-klay-thompson-nike-hyperdunk-2013-away-pe.jpg 330 330 "Thompson shoes" %}
+{% img http://cdn.solecollector.com/media/up/2014/01/images/sole-watch-nets-warriors-january-8-2014-klay-thompson-nike-hyperdunk-2013-away-pe.jpg 300 300 "Thompson shoes" %}
 
 Brooklyn nie dotarł nawet do granicy "wysokiego poziomu" poprzez popełniane głupoty w ataku i obronie. Rekordowa liczba strat (15), skuteczność z linii (50% w meczu) powinna się odbić czkawką dużo wcześniej niż to miało miejsce i zapobiec zaciętemu crunchtime'owi na który ekipa Nets najwyraźniej w świecie nie zasłużyła. Zaledwie 10 punktów z ławki i 6 z kontrataków to zdecydowanie za mało dla drużyny z aspiracjami Playoffowymi...
 

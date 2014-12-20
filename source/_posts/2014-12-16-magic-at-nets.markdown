@@ -12,7 +12,7 @@ Przyszedł czas na prawdziwy szlagier, w którym spotykali się wielokrotni zdob
 
 <!--more-->
 
-{% img http://cdn.solecollector.com/m/images/articles/lamarcus-aldridge-s-max-hyperdunk-2010-designed-by-the-st-mary-s-home-for-boys-2031655144.jpg 330 180 "Aldridge shoes" %}
+{% img http://cdn.solecollector.com/m/images/articles/lamarcus-aldridge-s-max-hyperdunk-2010-designed-by-the-st-mary-s-home-for-boys-2031655144.jpg 300 160 "Aldridge shoes" %}
 
 Gra Nets nie zachwycała od samego początku - tragiczna skuteczność zza łuku (22% w meczu), niewymuszone straty i kiepski shoot selection odbił się w końcówce meczu, gdzie fenomenalną skutecznością za trzy (9/19 w meczu) zwycięstwo przypieczętował Bledsoe (4/6 3 pts.), mając do pomocy Burke'a (2/3) czy McColluma (2/2). 
 

@@ -4,21 +4,27 @@
         <loc>
             http://shielded-retreat-4872.herokuapp.com//techblog/2014/12/16/nets-at-wizards/
         </loc>
-        <lastmod>2014-12-16T17:15:40+01:00</lastmod>
+        <lastmod>2014-12-16T17:39:23+01:00</lastmod>
     </url>
     <url>
         <loc>
             http://shielded-retreat-4872.herokuapp.com//techblog/2014/12/16/nets-at-warriors/
         </loc>
-        <lastmod>2014-12-16T17:15:23+01:00</lastmod>
+        <lastmod>2014-12-16T17:39:46+01:00</lastmod>
     </url>
     <url>
         <loc>http://shielded-retreat-4872.herokuapp.com//techblog/2014/12/16/magic-at-nets/</loc>
-        <lastmod>2014-12-16T17:15:21+01:00</lastmod>
+        <lastmod>2014-12-16T17:39:43+01:00</lastmod>
     </url>
     <url>
         <loc>http://shielded-retreat-4872.herokuapp.com//techblog/2014/12/16/nets-at-suns/</loc>
-        <lastmod>2014-12-16T17:30:10+01:00</lastmod>
+        <lastmod>2014-12-16T17:39:25+01:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://shielded-retreat-4872.herokuapp.com//techblog/2014/12/20/swiatelko-w-tunelu-nieskutecznosci/
+        </loc>
+        <lastmod>2014-12-20T13:51:33+01:00</lastmod>
     </url>
     <url>
         <loc>http://shielded-retreat-4872.herokuapp.com//robots.txt</loc>
@@ -30,6 +36,6 @@
     </url>
     <url>
         <loc>http://shielded-retreat-4872.herokuapp.com//</loc>
-        <lastmod>2014-12-16T17:30:10+01:00</lastmod>
+        <lastmod>2014-12-20T13:51:33+01:00</lastmod>
     </url>
 </urlset>
